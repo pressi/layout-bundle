@@ -1,0 +1,14 @@
+services:
+    _defaults:
+        autoconfigure: true
+        autowire: false
+        public: false
+
+
+    # event listener / hooks
+    IIDO\LayoutBundle\EventListener\FrontendTemplateListener: ~
+    IIDO\LayoutBundle\EventListener\ContentListener: ~
+    IIDO\LayoutBundle\EventListener\PageListener:
+        arguments:
+            - "@iido.core.util.page"
+            - "@iido.core.config"

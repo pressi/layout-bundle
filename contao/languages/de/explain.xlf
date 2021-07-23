@@ -1,0 +1,266 @@
+<?xml version="1.0" ?><xliff version="1.1">
+  <file datatype="php" original="src/Resources/contao/languages/en/explain.php" source-language="en" target-language="de">
+    <body>
+
+      <trans-unit id="XPL.containerWidth.0.0">
+        <source> </source>
+        <target> </target>
+      </trans-unit>
+      <trans-unit id="XPL.containerWidth.0.1">
+        <source><![CDATA[<table style="width:100%"><tr>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><strong>Extra Small</strong><br><576px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><strong>Small</strong><br>≥576px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><strong>Medium</strong><br>≥768px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><strong>Large</strong><br>≥992px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><strong>X-Large</strong><br>≥1200px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><strong>XX-Large</strong><br>≥1400px</td>
+        </tr></table>]]></source>
+        <target><![CDATA[<table style="width:100%"><tr>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><strong>Extra Small</strong><br><576px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><strong>Small</strong><br>≥576px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><strong>Medium</strong><br>≥768px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><strong>Large</strong><br>≥992px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><strong>X-Large</strong><br>≥1200px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><strong>XX-Large</strong><br>≥1400px</td>
+        </tr></table>]]></target>
+      </trans-unit>
+
+      <trans-unit id="XPL.containerWidth.1.0">
+        <source>Default</source>
+        <target>Standard</target>
+      </trans-unit>
+      <trans-unit id="XPL.containerWidth.1.1">
+        <source><![CDATA[<table style="width:100%"><tr>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">540px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">720px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">960px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">1140px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">1320px</td>
+        </tr></table>]]></source>
+        <target><![CDATA[<table style="width:100%"><tr>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">540px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">720px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">960px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">1140px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">1320px</td>
+        </tr></table>]]></target>
+      </trans-unit>
+
+      <trans-unit id="XPL.containerWidth.2.0">
+        <source>Small</source>
+        <target>Small</target>
+      </trans-unit>
+      <trans-unit id="XPL.containerWidth.2.1">
+        <source><![CDATA[<table style="width:100%"><tr>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">540px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">720px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">960px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">1140px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">1320px</td>
+        </tr></table>]]></source>
+        <target><![CDATA[<table style="width:100%"><tr>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">540px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">720px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">960px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">1140px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">1320px</td>
+        </tr></table>]]></target>
+      </trans-unit>
+
+      <trans-unit id="XPL.containerWidth.3.0">
+        <source>Medium</source>
+        <target>Medium</target>
+      </trans-unit>
+      <trans-unit id="XPL.containerWidth.3.1">
+        <source><![CDATA[<table style="width:100%"><tr>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">720px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">960px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">1140px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">1320px</td>
+        </tr></table>]]></source>
+        <target><![CDATA[<table style="width:100%"><tr>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">720px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">960px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">1140px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">1320px</td>
+        </tr></table>]]></target>
+      </trans-unit>
+
+      <trans-unit id="XPL.containerWidth.4.0">
+        <source>Large</source>
+        <target>Large</target>
+      </trans-unit>
+      <trans-unit id="XPL.containerWidth.4.1">
+        <source><![CDATA[<table style="width:100%"><tr>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">960px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">1140px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">1320px</td>
+        </tr></table>]]></source>
+        <target><![CDATA[<table style="width:100%"><tr>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">960px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">1140px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">1320px</td>
+        </tr></table>]]></target>
+      </trans-unit>
+
+      <trans-unit id="XPL.containerWidth.5.0">
+        <source>X-Large</source>
+        <target>X-Large</target>
+      </trans-unit>
+      <trans-unit id="XPL.containerWidth.5.1">
+        <source><![CDATA[<table style="width:100%"><tr>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">1140px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">1320px</td>
+        </tr></table>]]></source>
+        <target><![CDATA[<table style="width:100%"><tr>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">1140px</td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">1320px</td>
+        </tr></table>]]></target>
+      </trans-unit>
+
+      <trans-unit id="XPL.containerWidth.6.0">
+        <source>XX-Large</source>
+        <target>XX-Large</target>
+      </trans-unit>
+      <trans-unit id="XPL.containerWidth.6.1">
+        <source><![CDATA[<table style="width:100%"><tr>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">1320px</td>
+        </tr></table>]]></source>
+        <target><![CDATA[<table style="width:100%"><tr>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);">1320px</td>
+        </tr></table>]]></target>
+      </trans-unit>
+
+      <trans-unit id="XPL.containerWidth.7.0">
+        <source>Fluid</source>
+        <target>Fluid</target>
+      </trans-unit>
+      <trans-unit id="XPL.containerWidth.7.1">
+        <source><![CDATA[<table style="width:100%"><tr>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        </tr></table>]]></source>
+        <target><![CDATA[<table style="width:100%"><tr>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        <td style="padding:0 15px;border:none;width:calc(100%/6);"><span style="color:#6c757d;">100%</span></td>
+        </tr></table>]]></target>
+      </trans-unit>
+
+
+
+
+      <trans-unit id="XPL.gutterSize.0.0">
+        <source> </source>
+        <target> </target>
+      </trans-unit>
+      <trans-unit id="XPL.gutterSize.0.1">
+        <source>$spacer = 1rem (~ 16px)</source>
+        <target>$spacer = 1rem (~ 16px)</target>
+      </trans-unit>
+
+      <trans-unit id="XPL.gutterSize.1.0">
+        <source>0</source>
+        <target>0</target>
+      </trans-unit>
+      <trans-unit id="XPL.gutterSize.1.1">
+        <source>0 (Kein Abstand)</source>
+        <target>0 (Kein Abstand)</target>
+      </trans-unit>
+
+      <trans-unit id="XPL.gutterSize.2.0">
+        <source>1</source>
+        <target>1</target>
+      </trans-unit>
+      <trans-unit id="XPL.gutterSize.2.1">
+        <source>1 ($spacer * 0,25 ~ 4px)</source>
+        <target>1 ($spacer * 0,25 ~ 4px)</target>
+      </trans-unit>
+
+      <trans-unit id="XPL.gutterSize.3.0">
+        <source>2</source>
+        <target>2</target>
+      </trans-unit>
+      <trans-unit id="XPL.gutterSize.3.1">
+        <source>2 ($spacer * 0,5 ~ 8px)</source>
+        <target>2 ($spacer * 0,5 ~ 8px)</target>
+      </trans-unit>
+
+      <trans-unit id="XPL.gutterSize.4.0">
+        <source>3</source>
+        <target>3</target>
+      </trans-unit>
+      <trans-unit id="XPL.gutterSize.4.1">
+        <source>3 ($spacer ~ 16px)</source>
+        <target>3 ($spacer ~ 16px)</target>
+      </trans-unit>
+
+      <trans-unit id="XPL.gutterSize.5.0">
+        <source>4</source>
+        <target>4</target>
+      </trans-unit>
+      <trans-unit id="XPL.gutterSize.5.1">
+        <source>4 ($spacer * 1,5 ~ 24px)</source>
+        <target>4 ($spacer * 1,5 ~ 24px)</target>
+      </trans-unit>
+
+      <trans-unit id="XPL.gutterSize.6.0">
+        <source>5</source>
+        <target>5</target>
+      </trans-unit>
+      <trans-unit id="XPL.gutterSize.6.1">
+        <source>5 ($spacer * 3 ~ 48px)</source>
+        <target>5 ($spacer * 3 ~ 48px)</target>
+      </trans-unit>
+
+      <trans-unit id="XPL.gutterSize.7.0">
+        <source>Auto</source>
+        <target>Auto</target>
+      </trans-unit>
+      <trans-unit id="XPL.gutterSize.7.1">
+        <source>Auto - Abstand automatisch</source>
+        <target>Auto - Abstand automatisch</target>
+      </trans-unit>
+
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,204 @@
+<?xml version="1.0" ?>
+<xliff version="1.1">
+    <file datatype="php" original="src/Resources/contao/languages/en/tl_article.php" source-language="en" target-language="de">
+        <body>
+
+            <trans-unit id="tl_article.enableColumns.0">
+                <source>Spalten aktivieren</source>
+                <target>Spalten aktivieren</target>
+            </trans-unit>
+
+            <trans-unit id="tl_article.containerWidth.0">
+                <source>Container Breite</source>
+                <target>Container Breite</target>
+            </trans-unit>
+
+            <trans-unit id="tl_article.gutterSize.0">
+                <source>Spaltenabstand (dazwischen)</source>
+                <target>Spaltenabstand (dazwischen)</target>
+            </trans-unit>
+            <trans-unit id="tl_article.gutterSize.1">
+                <source>Extra Small (&lt;576px)</source>
+                <target>Extra Small (&lt;576px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_article.gutterSmallSize.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_article.gutterSmallSize.1">
+                <source>Small (≥576px)</source>
+                <target>Small (≥576px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_article.gutterMediumSize.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_article.gutterMediumSize.1">
+                <source>Medium (≥768px)</source>
+                <target>Medium (≥768px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_article.gutterLargeSize.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_article.gutterLargeSize.1">
+                <source>Large (≥992px)</source>
+                <target>Large (≥992px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_article.gutterXLargeSize.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_article.gutterXLargeSize.1">
+                <source>X-Large (≥1200px)</source>
+                <target>X-Large (≥1200px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_article.gutterXXLargeSize.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_article.gutterXXLargeSize.1">
+                <source>XX-Large (≥1400px)</source>
+                <target>XX-Large (≥1400px)</target>
+            </trans-unit>
+
+
+
+            <trans-unit id="tl_article.otherYGutterSize.0">
+                <source>Vertikaler Spaltenabstand abweichend</source>
+                <target>Vertikaler Spaltenabstand abweichend</target>
+            </trans-unit>
+
+
+
+            <trans-unit id="tl_article.gutterYSize.0">
+                <source>Spaltenabstand Vertikal</source>
+                <target>Spaltenabstand Vertikal</target>
+            </trans-unit>
+            <trans-unit id="tl_article.gutterYSize.1">
+                <source>Extra Small (&lt;576px)</source>
+                <target>Extra Small (&lt;576px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_article.gutterYSmallSize.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_article.gutterYSmallSize.1">
+                <source>Small (≥576px)</source>
+                <target>Small (≥576px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_article.gutterYMediumSize.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_article.gutterYMediumSize.1">
+                <source>Medium (≥768px)</source>
+                <target>Medium (≥768px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_article.gutterYLargeSize.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_article.gutterYLargeSize.1">
+                <source>Large (≥992px)</source>
+                <target>Large (≥992px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_article.gutterYXLargeSize.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_article.gutterYXLargeSize.1">
+                <source>X-Large (≥1200px)</source>
+                <target>X-Large (≥1200px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_article.gutterYXXLargeSize.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_article.gutterYXXLargeSize.1">
+                <source>XX-Large (≥1400px)</source>
+                <target>XX-Large (≥1400px)</target>
+            </trans-unit>
+
+
+<!-- ### LEGENDS ############################################################################################################ -->
+
+            <trans-unit id="tl_article.content_legend">
+                <source>Inhalt</source>
+                <target>Inhalt</target>
+            </trans-unit>
+
+
+
+<!-- ### OPTIONS ############################################################################################################ -->
+
+            <trans-unit id="tl_article.options.containerWidth.fluid">
+                <source>100% (Fluid)</source>
+                <target>100% (Fluid)</target>
+            </trans-unit>
+            <trans-unit id="tl_article.options.containerWidth.sm">
+                <source>Small</source>
+                <target>Small</target>
+            </trans-unit>
+            <trans-unit id="tl_article.options.containerWidth.md">
+                <source>Medium</source>
+                <target>Medium</target>
+            </trans-unit>
+            <trans-unit id="tl_article.options.containerWidth.lg">
+                <source>Large</source>
+                <target>Large</target>
+            </trans-unit>
+            <trans-unit id="tl_article.options.containerWidth.xl">
+                <source>X Large</source>
+                <target>X Large</target>
+            </trans-unit>
+            <trans-unit id="tl_article.options.containerWidth.xxl">
+                <source>XX Large</source>
+                <target>XX Large</target>
+            </trans-unit>
+
+
+
+            <trans-unit id="tl_article.options.gutterSize.0">
+                <source>0</source>
+                <target>0</target>
+            </trans-unit>
+            <trans-unit id="tl_article.options.gutterSize.1">
+                <source>1</source>
+                <target>1</target>
+            </trans-unit>
+            <trans-unit id="tl_article.options.gutterSize.2">
+                <source>2</source>
+                <target>2</target>
+            </trans-unit>
+            <trans-unit id="tl_article.options.gutterSize.3">
+                <source>3</source>
+                <target>3</target>
+            </trans-unit>
+            <trans-unit id="tl_article.options.gutterSize.4">
+                <source>4</source>
+                <target>4</target>
+            </trans-unit>
+            <trans-unit id="tl_article.options.gutterSize.5">
+                <source>5</source>
+                <target>5</target>
+            </trans-unit>
+            <trans-unit id="tl_article.options.gutterSize.auto">
+                <source>Auto</source>
+                <target>Auto</target>
+            </trans-unit>
+
+
+        </body>
+    </file>
+</xliff>

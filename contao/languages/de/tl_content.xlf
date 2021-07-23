@@ -1,0 +1,562 @@
+<?xml version="1.0" ?>
+<xliff version="1.1">
+    <file datatype="php" original="src/Resources/contao/languages/en/tl_content.php" source-language="en" target-language="de">
+        <body>
+
+            <trans-unit id="tl_content.columnWidth.0">
+                <source>Spalten-Breite</source>
+                <target>Spalten-Breite</target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnWidth.1">
+                <source>Extra Small (&lt;576px)</source>
+                <target>Extra Small (&lt;576px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnSmallWidth.0">
+                <source>Small</source>
+                <target>Small</target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnSmallWidth.1">
+                <source>Small (≥576px)</source>
+                <target>Small (≥576px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnMediumWidth.0">
+                <source>Medium</source>
+                <target>Medium</target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnMediumWidth.1">
+                <source>Medium (≥768px)</source>
+                <target>Medium (≥768px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnLargeWidth.0">
+                <source>Large</source>
+                <target>Large</target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnLargeWidth.1">
+                <source>Large (≥992px)</source>
+                <target>Large (≥992px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnXLargeWidth.0">
+                <source>X-Large</source>
+                <target>X-Large</target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnXLargeWidth.1">
+                <source>X-Large (≥1200px)</source>
+                <target>X-Large (≥1200px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnXXLargeWidth.0">
+                <source>XX-Large</source>
+                <target>XX-Large</target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnXXLargeWidth.1">
+                <source>XX-Large (≥1400px)</source>
+                <target>XX-Large (≥1400px)</target>
+            </trans-unit>
+
+
+
+            <trans-unit id="tl_content.columnAlign.0">
+                <source>Vertikale Ausrichtung</source>
+                <target>Vertikale Ausrichtung</target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnAlign.1">
+                <source>Extra Small (&lt;576px)</source>
+                <target>Extra Small (&lt;576px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnSmallAlign.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnSmallAlign.1">
+                <source>Small (≥576px)</source>
+                <target>Small (≥576px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnMediumAlign.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnMediumAlign.1">
+                <source>Medium (≥768px)</source>
+                <target>Medium (≥768px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnLargeAlign.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnLargeAlign.1">
+                <source>Large (≥992px)</source>
+                <target>Large (≥992px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnXLargeAlign.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnXLargeAlign.1">
+                <source>X-Large (≥1200px)</source>
+                <target>X-Large (≥1200px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnXXLargeAlign.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnXXLargeAlign.1">
+                <source>XX-Large (≥1400px)</source>
+                <target>XX-Large (≥1400px)</target>
+            </trans-unit>
+
+
+            <trans-unit id="tl_content.columnJustify.0">
+                <source>Horizontale Ausrichtung</source>
+                <target>Horizontale Ausrichtung</target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnJustify.1">
+                <source>Extra Small (&lt;576px)</source>
+                <target>Extra Small (&lt;576px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnSmallJustify.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnSmallJustify.1">
+                <source>Small (≥576px)</source>
+                <target>Small (≥576px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnMediumJustify.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnMediumJustify.1">
+                <source>Medium (≥768px)</source>
+                <target>Medium (≥768px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnLargeJustify.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnLargeJustify.1">
+                <source>Large (≥992px)</source>
+                <target>Large (≥992px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnXLargeJustify.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnXLargeJustify.1">
+                <source>X-Large (≥1200px)</source>
+                <target>X-Large (≥1200px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnXXLargeJustify.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnXXLargeJustify.1">
+                <source>XX-Large (≥1400px)</source>
+                <target>XX-Large (≥1400px)</target>
+            </trans-unit>
+
+
+
+            <trans-unit id="tl_content.columnOrder.0">
+                <source>Reihenfolge (Order)</source>
+                <target>Reihenfolge (Order)</target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnOrder.1">
+                <source>Extra Small (&lt;576px)</source>
+                <target>Extra Small (&lt;576px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnSmallOrder.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnSmallOrder.1">
+                <source>Small (≥576px)</source>
+                <target>Small (≥576px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnMediumOrder.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnMediumOrder.1">
+                <source>Medium (≥768px)</source>
+                <target>Medium (≥768px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnLargeOrder.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnLargeOrder.1">
+                <source>Large (≥992px)</source>
+                <target>Large (≥992px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnXLargeOrder.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnXLargeOrder.1">
+                <source>X-Large (≥1200px)</source>
+                <target>X-Large (≥1200px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnXXLargeOrder.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnXXLargeOrder.1">
+                <source>XX-Large (≥1400px)</source>
+                <target>XX-Large (≥1400px)</target>
+            </trans-unit>
+
+
+
+            <trans-unit id="tl_content.columnOffset.0">
+                <source>Abstand (Offset)</source>
+                <target>Abstand (Offset)</target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnOffset.1">
+                <source>Extra Small (&lt;576px)</source>
+                <target>Extra Small (&lt;576px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnSmallOffset.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnSmallOffset.1">
+                <source>Small (≥576px)</source>
+                <target>Small (≥576px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnMediumOffset.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnMediumOffset.1">
+                <source>Medium (≥768px)</source>
+                <target>Medium (≥768px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnLargeOffset.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnLargeOffset.1">
+                <source>Large (≥992px)</source>
+                <target>Large (≥992px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnXLargeOffset.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnXLargeOffset.1">
+                <source>X-Large (≥1200px)</source>
+                <target>X-Large (≥1200px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnXXLargeOffset.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnXXLargeOffset.1">
+                <source>XX-Large (≥1400px)</source>
+                <target>XX-Large (≥1400px)</target>
+            </trans-unit>
+
+
+
+            <trans-unit id="tl_content.columnCols.0">
+                <source>Anzahl der Spalten</source>
+                <target>Anzahl der Spalten</target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnCols.1">
+                <source>Extra Small (&lt;576px)</source>
+                <target>Extra Small (&lt;576px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnSmallCols.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnSmallCols.1">
+                <source>Small (≥576px)</source>
+                <target>Small (≥576px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnMediumCols.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnMediumCols.1">
+                <source>Medium (≥768px)</source>
+                <target>Medium (≥768px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnLargeCols.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnLargeCols.1">
+                <source>Large (≥992px)</source>
+                <target>Large (≥992px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnXLargeCols.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnXLargeCols.1">
+                <source>X-Large (≥1200px)</source>
+                <target>X-Large (≥1200px)</target>
+            </trans-unit>
+
+            <trans-unit id="tl_content.columnXXLargeCols.0">
+                <source> </source>
+                <target> </target>
+            </trans-unit>
+            <trans-unit id="tl_content.columnXXLargeCols.1">
+                <source>XX-Large (≥1400px)</source>
+                <target>XX-Large (≥1400px)</target>
+            </trans-unit>
+
+
+
+<!-- ### LEGENDS ############################################################################################################ -->
+
+            <trans-unit id="tl_content.column_legend">
+                <source>Spalten</source>
+                <target>Spalten</target>
+            </trans-unit>
+
+
+
+<!-- ### OPTIONS ############################################################################################################ -->
+
+            <trans-unit id="tl_content.options.columnWidth.auto">
+                <source>Auto</source>
+                <target>Auto</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnWidth.fill">
+                <source>Auto (Füllend)</source>
+                <target>Auto (Füllend)</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnWidth.1">
+                <source>1</source>
+                <target>1</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnWidth.2">
+                <source>2</source>
+                <target>2</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnWidth.3">
+                <source>3 (25%)</source>
+                <target>3 (25%)</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnWidth.4">
+                <source>4 (1/3)</source>
+                <target>4 (1/3)</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnWidth.5">
+                <source>5</source>
+                <target>5</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnWidth.6">
+                <source>6 (50%)</source>
+                <target>6 (50%)</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnWidth.7">
+                <source>7</source>
+                <target>7</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnWidth.8">
+                <source>8 (2/3)</source>
+                <target>8 (2/3)</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnWidth.9">
+                <source>9</source>
+                <target>9</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnWidth.10">
+                <source>10</source>
+                <target>10</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnWidth.11">
+                <source>11</source>
+                <target>11</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnWidth.12">
+                <source>12 (100%)</source>
+                <target>12 (100%)</target>
+            </trans-unit>
+
+
+
+            <trans-unit id="tl_content.options.columnAlign.start">
+                <source>Start (Oben)</source>
+                <target>Start (Oben)</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnAlign.center">
+                <source>Center (Mitte)</source>
+                <target>Center (Mitte)</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnAlign.end">
+                <source>End (Unten)</source>
+                <target>End (Unten)</target>
+            </trans-unit>
+
+
+
+            <trans-unit id="tl_content.options.columnJustify.start">
+                <source>Start (Links)</source>
+                <target>Start (Links)</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnJustify.center">
+                <source>Center (Zentriert)</source>
+                <target>Center (Zentriert)</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnJustify.end">
+                <source>End (Rechts)</source>
+                <target>End (Rechts)</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnJustify.around">
+                <source>Around (Links und Rechts)</source>
+                <target>Around (Links und Rechts)</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnJustify.between">
+                <source>Between (Dazwischen)</source>
+                <target>Between (Dazwischen)</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnJustify.evenly">
+                <source>Evenly (Gleichmäßig)</source>
+                <target>Evenly (Gleichmäßig)</target>
+            </trans-unit>
+
+
+
+            <trans-unit id="tl_content.options.columnOrder.first">
+                <source>First (-1)</source>
+                <target>First (-1)</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnOrder.1">
+                <source>1</source>
+                <target>1</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnOrder.2">
+                <source>2</source>
+                <target>2</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnOrder.3">
+                <source>3</source>
+                <target>3</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnOrder.4">
+                <source>4</source>
+                <target>4</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnOrder.5">
+                <source>5</source>
+                <target>5</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnOrder.last">
+                <source>Last (6)</source>
+                <target>Last (6)</target>
+            </trans-unit>
+
+
+
+            <trans-unit id="tl_content.options.columnOffset.1">
+                <source>1</source>
+                <target>1</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnOffset.2">
+                <source>2</source>
+                <target>2</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnOffset.3">
+                <source>3</source>
+                <target>3</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnOffset.4">
+                <source>4</source>
+                <target>4</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnOffset.5">
+                <source>5</source>
+                <target>5</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnOffset.6">
+                <source>6</source>
+                <target>6</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnOffset.7">
+                <source>7</source>
+                <target>7</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnOffset.8">
+                <source>8</source>
+                <target>8</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnOffset.9">
+                <source>9</source>
+                <target>9</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnOffset.10">
+                <source>10</source>
+                <target>10</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnOffset.11">
+                <source>11</source>
+                <target>11</target>
+            </trans-unit>
+
+
+
+            <trans-unit id="tl_content.options.columnCols.auto">
+                <source>auto</source>
+                <target>auto</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnCols.1">
+                <source>1</source>
+                <target>1</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnCols.2">
+                <source>2</source>
+                <target>2</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnCols.3">
+                <source>3</source>
+                <target>3</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnCols.4">
+                <source>4</source>
+                <target>4</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnCols.5">
+                <source>5</source>
+                <target>5</target>
+            </trans-unit>
+            <trans-unit id="tl_content.options.columnCols.6">
+                <source>6</source>
+                <target>6</target>
+            </trans-unit>
+
+        </body>
+    </file>
+</xliff>

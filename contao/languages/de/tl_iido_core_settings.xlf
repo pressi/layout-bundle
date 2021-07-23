@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<xliff version="1.1">
+    <file datatype="php" original="src/Resources/contao/languages/en/tl_iido_core_settings.php" source-language="en" target-language="de">
+        <body>
+
+            <trans-unit id="tl_iido_core_settings.enableBootstrap.0">
+                <source>Bootstrap aktivieren</source>
+                <target>Bootstrap aktivieren</target>
+            </trans-unit>
+
+
+
+<!-- ### OPTIONS ############################################################################################################ -->
+
+            <trans-unit id="tl_iido_core_settings.options.articleFields.columns">
+                <source>Spalten [Layout: Bootstrap]</source>
+                <target>Spalten [Layout: Bootstrap]</target>
+            </trans-unit>
+
+
+
+<!-- ### LEGENDS ############################################################################################################ -->
+
+            <trans-unit id="tl_iido_core_settings.layout_legend">
+                <source>Layout</source>
+                <target>Layout</target>
+            </trans-unit>
+
+        </body>
+    </file>
+</xliff>

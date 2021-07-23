@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<xliff version="1.1">
+    <file datatype="php" original="src/Resources/contao/languages/en/tl_content.php" source-language="en" target-language="de">
+        <body>
+
+            <trans-unit id="tl_page.includeBootstrapSelf.0">
+                <source>Bootstrap manuell inkludieren</source>
+                <target>Bootstrap manuell inkludieren</target>
+            </trans-unit>
+
+
+
+<!-- ### OPTIONS ############################################################################################################ -->
+
+
+
+        </body>
+    </file>
+</xliff>

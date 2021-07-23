@@ -1,0 +1,51 @@
+{
+    "name"          : "2do/layout-bundle",
+    "type"          : "contao-bundle",
+    "description"   : "Contao 4 - IIDO Layout Bundle",
+    "homepage"      : "http://www.iido.at",
+    "license"       : "MIT",
+    "authors"       :
+    [
+        {
+            "name"      : "Stephan Preßl",
+            "email"     : "development@prestep.at",
+            "homepage"  : "http://www.prestep.at",
+            "role"      : "Developer"
+        }
+    ],
+    "version": "0.0.2",
+    "require":
+    {
+        "php": ">=7.4",
+        "contao/core-bundle": ">=4.9 || <=5.0",
+        "twig/twig": "^2.7 || ^3.0",
+        "doctrine/dbal": "^2.12 || ^3.0",
+        "2do/core-bundle": "^0.2",
+        "twbs/bootstrap": "^v5.0.0"
+    },
+    "replace":
+    {
+        "2do/contao-layout-bundle": "*"
+    },
+    "conflict":
+    {
+        "contao/core": "*",
+        "contao/manager-plugin": "<2.0 || >=3.0"
+    },
+    "autoload":
+    {
+        "psr-4":
+        {
+            "IIDO\\LayoutBundle\\": "src/"
+        }
+    },
+    "require-dev":
+    {
+        "contao/manager-plugin": "^2.3",
+        "contao/easy-coding-standard": "^3.0"
+    },
+    "extra":
+    {
+        "contao-manager-plugin": "IIDO\\LayoutBundle\\ContaoManager\\Plugin"
+    }
+}
