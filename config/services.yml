@@ -10,5 +10,5 @@ services:
     IIDO\LayoutBundle\EventListener\ContentListener: ~
     IIDO\LayoutBundle\EventListener\PageListener:
         arguments:
-            - "@iido.core.util.page"
+            - "@iido.utils.page"
             - "@iido.core.config"
