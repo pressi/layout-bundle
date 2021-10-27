@@ -16,7 +16,7 @@ use Contao\LayoutModel;
 use Contao\PageModel;
 use Contao\System;
 use IIDO\CoreBundle\Config\IIDOConfig;
-use IIDO\CoreBundle\Util\PageUtil;
+use IIDO\UtilsBundle\Util\PageUtil;
 
 
 class PageListener
@@ -41,7 +41,7 @@ class PageListener
      */
     public function onGeneratePage( PageModel $pageModel, LayoutModel $layout, PageRegular $pageRegular ): void
     {
-        $basicUtil  = System::getContainer()->get('iido.core.util.basic');
+        $basicUtil  = System::getContainer()->get('iido.utils.basic');
         $rootPage   = PageModel::findByPk( $pageModel->rootId );
 
         if( $this->config->get('enableBootstrap') )

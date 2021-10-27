@@ -25,7 +25,7 @@ class ContentListener
      */
     public function onGetContentElement( ContentModel $contentModel, string $buffer, $element ): string
     {
-        $contentUtil    = System::getContainer()->get('iido.core.util.content');
+        $contentUtil    = System::getContainer()->get('iido.utils.content');
         $article        = ArticleModel::findByPk( $contentModel->pid );
         $elementClasses = [];
 
